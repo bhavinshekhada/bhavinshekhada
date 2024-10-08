@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bhavin Shekhada (@bhavinshekhada)
 
-- 👀 **I’m interested in:**  
+- 👀 **I’m interested in:**
   Digital VLSI design, physical design, ASIC development, FPGA programming, and hardware description languages (HDLs) like Verilog and VHDL. My passion lies in working on the hardware-software interface, with a strong focus on optimizing circuits and systems for performance and efficiency.
 
 - 🌱 **I’m currently learning:**  
@@ -19,8 +19,3 @@
 
 - ⚡ **Fun fact:**  
   I enjoy diving deep into the world of digital circuits, but when I’m not coding or designing, you’ll probably find me exploring the latest tech in the gaming and sports!
-
-<!---
-bhavinshekhada/bhavinshekhada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
